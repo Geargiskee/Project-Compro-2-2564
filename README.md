@@ -21,7 +21,7 @@
 # โปสเตอร์
 >  ![Poster](https://media.discordapp.net/attachments/929983585816039444/969204025033642004/poster-01.png?width=478&height=676)
 # 3D model ตัวอย่าง
->  [Model](https://www.tinkercad.com/things/90szql9mWzR-glorious-jaban/edit)
+>  [Model](https://www.tinkercad.com/things/90szql9mWzR-glorious-jaban/edit?sharecode=PqW--nV06Q5E-uLRlvykbJGuQJKCWvVYmwX0ERqxnZs)
 # Website
 > [website](https://wallrawe39275.wixsite.com/my-site-3)
 ### สมาชิก
