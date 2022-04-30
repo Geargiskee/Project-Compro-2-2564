@@ -1,12 +1,12 @@
 # Vechicle Barrier Sensor
 > Project Computer Programming IT KMITL 2/2021
 # ที่มา
-  > 
+  > เราเล็งเหตุปัญหาจากการใช้รถบริเวณทางเข้าของหมู่บ้าน ที่เกิดอุบัติเหตุขึ้นบ่อยครั้ง เราจึงคิดต้นแบบของประตูปิดเปิดอัตโนมัติขึ้นมา เพื่อป้องกันและลดอุบัติเหตุบริเวณนั้น อีกทั้งยังทำให้รปภ. ได้ตรวจเช็ครถที่เข้าออกหมู่บ้าน
 # วัตถุประสงค์
 > เพื่อนำ Microcontroller  มาเรียนรู้และประยุกต์ใช้
 # ประโยชน์ที่ได้รับ
-> * ลดการแพร่กระจายของเชื้อโรค
-> * เป็นทางเลือกในการทำความสะอาดมือที่ให้ความสะดวก
+> * ป้องกันอันตรายจากการจากการขับรถเข้ามาทางเข้าหมู่บ้าน
+> * ได้เรียนรู้และประยุกต์ใช้ Microcontroller 
 # อุปกรณ์
 > * Arduino Uno R3
 > * Ultrasonic Distance Sensor
@@ -20,12 +20,16 @@
 > [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/Z36bY0ji2Ck)
 # โปสเตอร์
 >  ![Poster](https://media.discordapp.net/attachments/929983585816039444/969204025033642004/poster-01.png?width=478&height=676)
+# 3D model ตัวอย่าง
+>  ![Model](https://www.tinkercad.com/things/90szql9mWzR-glorious-jaban/edit)
+# Website
+> ![website](https://wallrawe39275.wixsite.com/my-site-3)
 ### สมาชิก
 ---
 
 | รหัสนักศึกษา | ชื่อ - นามสกุล |  หน้าที่ |
 | :-------- | :-------- | :--------- |
-|   64070012   |   คณาวัชร์ ระดมกิจ   |    Poster / Abstract   |
-|   64070075   |   พีรณัฐ ทิพย์รักษ์   |    Poster / Abstract   |
-|   64070182   |   ปัณณทัต สมอโพรงำ   |    Video / Microcontroller   |
-|   64070215   |   เมธาสิทธิ์ ประทีปเมธากุล   |    Github / Microcontroller   |
+|   64070164   |   ธีระวัฒน์ แสงจันทร์   |    Microcontroller   |
+|   64070184   |   ปัณณ์ วะชังเงิน   |    Microcontroller   |
+|   64070207   |   ภาคิน เค้าภูไทย   |    Poster / video   |
+|   64070228  |   วรวีร์ วิลาวรรณ   |    Github / Website  |
