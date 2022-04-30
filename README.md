@@ -15,7 +15,7 @@
 # เว็บที่ใช้เขียนโค้ด
 > [WOKWI](https://wokwi.com/projects/330173999194571346)
 # บทคัดย่อ
-> [บทคัดย่อ](https://docs.google.com/document/d/1QJhKXMBHFhQIcRQay6QXLjgT2K9Bn8pqgYMzIpaahwA/edit)
+> [บทคัดย่อ](https://docs.google.com/document/d/1nTMl2Pkfxo5g4zcD-9rQNogSBSdd5uHo69iZ6eoTn6w/edit?usp=sharing)
 # วิดีโอนำเสนอ
 > [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/Z36bY0ji2Ck)
 # โปสเตอร์
